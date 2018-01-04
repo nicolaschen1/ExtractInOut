@@ -16,7 +16,7 @@ Nicolas Chen
 
 This  script is under MIT License.
 
-Copyright (c) 2017 Nicolas CHEN
+Copyright (c) 2017 Nicolas Chen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
