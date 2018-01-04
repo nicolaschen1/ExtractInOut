@@ -1,4 +1,3 @@
-﻿%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % extractInOut.m
 % 
 % Description: Extract the list of the inports and outports 
@@ -13,7 +12,6 @@
 % Output: Excel file filled with inports and outports.
 %
 % VERSION: 1.0
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 pwd;
 pathRep = pwd;
